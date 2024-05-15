@@ -1,5 +1,4 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
-
+# I'm a sowftwear engener 
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
